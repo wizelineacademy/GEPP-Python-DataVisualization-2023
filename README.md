@@ -25,7 +25,7 @@ Este programa cubrirá los conocimientos fundamentales de Python & Data Visualiz
 
 - Son clases en línea (en vivo) impartidas por ingenieros de Wizeline, las sesiones tienen una duración de 1 hora cada sesión, esta es la liga e informacion para el acceso a las sesiones :
 
-- ZOOM : [LINK](https://wizeline.zoom.us/j/2195145581?pwd=VXM2QkRRYzdZNk1KSTF2aFdpWHMwUT09)
+- ZOOM : [LINK]
 - MEETING ID: 219 514 5581
 - PASSCODE: 8Ut.%ZVZ0e
 
@@ -52,7 +52,7 @@ Este programa cubrirá los conocimientos fundamentales de Python & Data Visualiz
 
 **Como crear tu cuenta de Free Tier de Azure**
 
-En [ESTE](https://youtu.be/SZVcLkpjTto) video se explica como crear una cuenta gratuita de Microsoft Azure.
+En [ESTE] video se explica como crear una cuenta gratuita de Microsoft Azure.
 
 # III - Calendario
 
@@ -63,11 +63,11 @@ En este calendario verás las sesiones que están agendadas durante este curso :
 
 **Syllabus**
 
-Puede ver la información detallada del contenido de este entrenamiento haciendo clic [AQUI](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/files/9973567/DSA.-.GEPP.Intro.to.Azure._.Syllabus._.Wizeline.pdf)
+Puede ver la información detallada del contenido de este entrenamiento haciendo clic [AQUI]
 
 **Comentarios de la sesión**
 
-Al final de cada sesión en vivo, completa nuestra [Encuesta de Retroalimentacion](https://docs.google.com/forms/d/e/1FAIpQLSf8tahLh_1_DA7B4rv10X0RGHLCrvOUEpnh04f9Trnk0LeWKg/viewform) para ayudarnos a mejorar tu experiencia de aprendizaje.
+Al final de cada sesión en vivo, completa nuestra [Encuesta de Retroalimentacion] para ayudarnos a mejorar tu experiencia de aprendizaje.
 
 **Desglose del Entrenamiento**
 
@@ -75,108 +75,106 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **SEMANA 1**
 
-**Sesión 1 (Viernes 28 Octubre 2022) : Sesión de inicio / Introducció al curso Intro To Azure**
+**Sesión 1 (Viernes 20 Enero 2023) : Sesión de inicio / Introducció al curso Intro To Azure**
 
 **Instructor : DSA Staff**
 
-- [PDF / Material](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/blob/main/Sesiones/Sesion%201%20:%20Sesi%C3%B3n%20de%20inicio-Introduccion.md)
+- [PDF / Material]
 
-**Sesión 2 (Martes 1 Noviembre 2022): Introducción a Cloud Computing**
+**Sesión 2 (Martes 24 Enero 2023) : Intro To Python **
 
-**Instructor : Sergio Rubio Ugalde**
+**Instructor : David Sol**
 
-- [PDF / Material](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/blob/main/Sesiones/Sesion%202%20:%20Introducci%C3%B3n%20a%20Cloud%20Computing.md)
-- [Grabación](https://youtu.be/10EDtg9mViI)
+- [PDF / Material]
+- [Grabación]
 
 **SEMANA 2**
 
-**Sesión 3 (Viernes 4 Noviembre 2022) : Describir los beneficios de usar servicios en la nube**
+**Sesión 3 (Viernes 27 Enero 2023) : Setting Your Environment**
 
-**Instructor : Sergio Rubio Ugalde**
+**Instructor : David Sol**
 
-- [PDF / Material](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/blob/main/Sesiones/Sesion%203%20:%20Beneficios%20de%20Usar%20Servicios%20Cloud.md)
-- [Grabación](https://www.youtube.com/watch?v=LJGTi8p342s)
+- [PDF / Material]
+- [Grabación]
 
-**Sesión 4 (Martes 8 Noviembre 2022) : Describir los tipos de servicios en la nube**
+**Sesión 4 (Martes 31 Enero 2023) : IDEs & Git**
 
-**Instructor : Ricardo Elinar Valdez Hernández**
+**Instructor : David Sol**
 
-- [PDF / Material](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/blob/main/Sesiones/Sesion%204%20:%20Modelos%20de%20Servicios%20Cloud.md)
-- [Grabación](https://youtu.be/syVtyhtNryY)
+- [PDF / Material]
+- [Grabación]
 
 **SEMANA 3**
 
-**Sesión 5 (Viernes 11 Noviembre 2022) : Componentes arquitectónicos centrales**
+**Sesión 5 (Viernes 3 Febrero 2023) : Jupyter and Notebooks**
 
-**Instructor : Ricardo Elinar Valdez Hernández**
+**Instructor : Marco Mendoza**
 
-- [PDF / Material](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/blob/main/Sesiones/Sesion%205%20:%20Componentes%20Arquitect%C3%B3nicos%20Centrales.md)
-- [Grabación](https://youtu.be/mLx5v7Aft2w)
+- [PDF / Material]
+- [Grabación]
 
-**Sesión 6 (Martes 15 Noviembre 2022) : Identidad, acceso y seguridad**
+**Sesión 6 (Martes 7 Febrero 2023) : Python Basics**
 
-**Instructor : Erick Abraham Torres Zaragoza**
+**Instructor : Ricardo Valdez Hernandez**
 
-- [PDF / Material](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/blob/main/Sesiones/Sesion%206%20:%20Identidad%2C%20acceso%20y%20seguridad.md)
-- [Grabación](https://youtu.be/R4539zcRJLc)
+- [PDF / Material]
+- [Grabación]
 
 **SEMANA 4**
 
-**Sesión 7 (Viernes 18 Noviembre 2022) : Servicios de almacenamiento**
+**Sesión 7 (Viernes 10 Febrero 2023) : Pandas**
 
-**Instructor : Erick Abraham Torres Zaragoza**
+**Instructor : Marco Mendoza**
 
-- [PDF / Material](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/blob/main/Sesiones/Sesion%207%20:%20Servicios%20de%20almacenamiento.md)
-- [Grabación](https://youtu.be/_CpyPkTvhoA)
+- [PDF / Material]
+- [Grabación]
 
-**Sesión 8 (Martes 22 Noviembre 2022) : Servicios informáticos y de redes**
+**Sesión 8 (Martes 14 Febrero 2023) : Processing Data**
 
-**Instructor : Jeffry Steven Hernández Torres**
+**Instructor : Ricardo Valdez Hernandez**
 
-- [PDF / Material](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/blob/main/Sesiones/Sesion%208%20:%20Servicios%20Informaticos%20y%20de%20Redes.md)
-- [Grabación](https://youtu.be/aQXSvggEZG0)
+- [PDF / Material]
+- [Grabación]
 
 **SEMANA 5**
 
-**Sesión 9 (Viernes 25 Noviembre 2022) : Manejo de costos**
+**Sesión 9 (Viernes 17 Febrero 2023) : Processing More Data**
 
-**Instructor : Jeffry Steven Hernández Torres**
+**Instructor : Marco Mendoza**
 
 - PDF / Material
 - Grabación
 
-**Sesión 10 (Martes 29 Noviembre 2022) : Governance y cumplimiento**
+**Sesión 10 (Martes 21 Febrero 2023) : Fundamentals of Exploratory Data Analysis (EDA)**
 
-**Instructor : Sinuhe Diaz**
+**Instructor : Marco Mendoza**
 
 - PDF / Material
 - Grabación
 
 **SEMANA 6**
 
-**Sesión 11 (Viernes 2 Diciembre 2022) : Gestión e implementación de recursos de Azure**
+**Sesión 11 (Viernes 24 Febrero 2023) : Data Visualizations**
 
-**Instructor : Sergio Rubio Ugalde**
+**Instructor : Ricardo Valdez Hernandez**
 
 - PDF / Material
 - Grabación
 
-**Sesión 12 (Martes 6 Diciembre 2022) : Herramientas de monitoreo**
+**Sesión 12 (Martes 28 Febrero 2023) : Data Analysis**
 
-**Instructor : Sergio Rubio Ugalde**
+**Instructor : Ricardo Valdez Hernandez**
 
 - PDF / Material
 - Grabación
 
 **SEMANA 7**
 
-**Sesión 13 (Viernes 9 Diciembre 2022) : Session Cierre (Preguntas y Respuestas)**
+**Sesión 13 (Viernes 3 Marzo 2023) : Machine Learning and AI in the Cloud**
 
-**Instructor : Marco Mendoza**
+**Instructor : Ricardo Valdez Hernandez**
 
-- Sesión para aclarar dudas sobre lo visto en el curso
-
-**Sesión 14 (Martes 13 Diciembre 2022) : Sesión de demostración final/cierre de Entrenamiento**
+**Sesión 14 (Martes 7 Marzo 2023) : Sesión de demostración final/Capstone Project**
 
 **Instructor : Marco Mendoza**
 
@@ -186,23 +184,20 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 ✴️ Como parte del Capstone Project, presentarás un proyecto que formará parte de la evaluación final vía Zoom, en el que reforzarás y aplicarás los conocimientos adquiridos durante el entrenamiento. 
 
-* Toda la informacion relacionada con el proyecto final, esta disponible en [ESTE](https://github.com/wizelineacademy/GEPP-IntroToAzure-2022/files/9963359/Intro.to.Azure.-.Capstone.Project.pdf) documento.
+* Toda la informacion relacionada con el proyecto final, esta disponible en [ESTE] documento.
 
 # 📆 VI - Agenda tu mentoria sobre pedido (Mentoring On-Demand)
 
 Para programar una tutoría en línea personalizada con uno de los mentores, siga estas instrucciones:
 
-Seleccione el enlace a continuación de cualquiera de los mentores, se abrirá su calendario con disponibilidad por día y hora. Elige el que mejor se adapte a tu necesidad. Recuerde completar [ESTE](https://docs.google.com/forms/d/e/1FAIpQLSeBKXLShaxus95XC7G4D088ngnL96v1bgbrnlyP87vh4K0WCQ/viewform) formulario de comentarios al final de su tutoría.
+Seleccione el enlace a continuación de cualquiera de los mentores, se abrirá su calendario con disponibilidad por día y hora. Elige el que mejor se adapte a tu necesidad. Recuerde completar [ESTE] formulario de comentarios al final de su tutoría.
 
 
 | MENTOR | AGENDAR MENTORIA |
 | ------ | ----- |
-| Sergio Rubio Ugalde |	[AQUI](https://calendly.com/sergio-rubio-wize) |
-| Ricardo Elinar Valdez Hernández |	[AQUI](http://calendly.com/rich-valdez) |
-| Erick Abraham Torres Zaragoza |	[AQUI](https://calendly.com/erick-torres-2) |
-| Jeffry Steven Hernández Torres | [AQUI](http://calendly.com/jhernandezwz) |
-| Sinuhe Diaz |	[AQUI](https://calendly.com/sinuhe-diaz-wz) |
-| Marco Mendoza |	[AQUI](https://calendly.com/marco-mendoza-azure) |
+| David Sol |	[AQUI]|
+| Ricardo Elinar Valdez Hernández |	[AQUI]|
+| Marco Mendoza |	[AQUI]|
 
 # VII. Contacto de Wizeline Digital Skills Accelerator
 
