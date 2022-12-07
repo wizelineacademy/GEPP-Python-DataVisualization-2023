@@ -31,8 +31,8 @@ Este programa cubrirá los conocimientos fundamentales de Python & Data Visualiz
 
 **Horarios de Sesiones en Vivo**
 
-- Martes : 9:00 AM CST a 10:00 AM CST en línea por Zoom
-- Viernes : 10:00 AM CST a 11:00 AM CST en línea por Zoom
+- Martes : TBD
+- Viernes : TBD
 
 - En las sesiones en línea es sugerido tener la cámara encendida todo el tiempo.
 
@@ -50,13 +50,10 @@ Este programa cubrirá los conocimientos fundamentales de Python & Data Visualiz
 
 - Este será un reto creado para poner en práctica los conocimientos adquiridos durante el entrenamiento.
 
-**Como crear tu cuenta de Free Tier de Azure**
-
-En [ESTE] video se explica como crear una cuenta gratuita de Microsoft Azure.
-
 # III - Calendario
 
 En este calendario verás las sesiones que están agendadas durante este curso :
+
 
 
 # IV - Curricula Del Entrenamiento
@@ -142,15 +139,15 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **Instructor : Marco Mendoza**
 
-- PDF / Material
-- Grabación
+- [PDF / Material]
+- [Grabación]
 
 **Sesión 10 (Martes 21 Febrero 2023) : Fundamentals of Exploratory Data Analysis (EDA)**
 
 **Instructor : Marco Mendoza**
 
-- PDF / Material
-- Grabación
+- [PDF / Material]
+- [Grabación]
 
 **SEMANA 6**
 
@@ -158,21 +155,24 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **Instructor : Ricardo Valdez Hernandez**
 
-- PDF / Material
-- Grabación
+- [PDF / Material]
+- [Grabación]
 
 **Sesión 12 (Martes 28 Febrero 2023) : Data Analysis**
 
 **Instructor : Ricardo Valdez Hernandez**
 
-- PDF / Material
-- Grabación
+- [PDF / Material]
+- [Grabación]
 
 **SEMANA 7**
 
 **Sesión 13 (Viernes 3 Marzo 2023) : Machine Learning and AI in the Cloud**
 
 **Instructor : Ricardo Valdez Hernandez**
+
+- [PDF / Material]
+- [Grabación]
 
 **Sesión 14 (Martes 7 Marzo 2023) : Sesión de demostración final/Capstone Project**
 
