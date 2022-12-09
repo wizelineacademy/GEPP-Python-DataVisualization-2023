@@ -31,8 +31,8 @@ Este programa cubrirá los conocimientos fundamentales de Python & Data Visualiz
 
 **Horarios de Sesiones en Vivo**
 
-- Martes : TBD
-- Viernes : TBD
+- Martes : 3:00 - 4:30 PM CST
+- Jueves : 3:00 - 4:30 PM CST
 
 - En las sesiones en línea es sugerido tener la cámara encendida todo el tiempo.
 
