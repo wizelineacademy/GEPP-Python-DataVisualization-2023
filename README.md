@@ -74,7 +74,7 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 **SEMANA 1**
 
-**Sesión 1 (Viernes 20 Enero 2023) : Sesión de inicio / Introducció al curso Intro To Azure**
+**Sesión 1 (Viernes 20 Enero 2023) : Sesión de inicio / Introducció al curso Intro To Python**
 
 **Instructor : DSA Staff**
 
