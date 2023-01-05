@@ -54,9 +54,8 @@ Este programa cubrirá los conocimientos fundamentales de Python & Data Visualiz
 
 En este calendario verás las sesiones que están agendadas durante este curso :
 
-<img width="1187" alt="1" src="https://user-images.githubusercontent.com/115300095/207116794-7ab7ab07-c0c7-4969-8d57-aa4d3f3123e8.png">
-<img width="1186" alt="2" src="https://user-images.githubusercontent.com/115300095/207116854-d144ebde-fdb3-4b81-b53d-41fca54873cb.png">
-<img width="1188" alt="3" src="https://user-images.githubusercontent.com/115300095/207116864-1dc3a9d2-ad57-4158-b7d7-87b0a43abe30.png">
+<img width="1194" alt="1" src="https://user-images.githubusercontent.com/115300095/210880212-09a9076a-d966-4cea-bc23-5cfebfb64682.png">
+<img width="1195" alt="2" src="https://user-images.githubusercontent.com/115300095/210880247-e658f692-777f-4494-af60-3d2ad9da630e.png">
 
 # IV - Curricula Del Entrenamiento
 
