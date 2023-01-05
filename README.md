@@ -25,14 +25,14 @@ Este programa cubrirá los conocimientos fundamentales de Python & Data Visualiz
 
 - Son clases en línea (en vivo) impartidas por ingenieros de Wizeline, las sesiones tienen una duración de 1 hora cada sesión, esta es la liga e informacion para el acceso a las sesiones :
 
-- ZOOM : [LINK]
-- MEETING ID: 219 514 5581
-- PASSCODE: 8Ut.%ZVZ0e
+- ZOOM : [LINK](https://wizeline.zoom.us/j/8736885422?pwd=cHFqdjRoVjFLWGZKVnVnZGwraE9XZz09)
+- MEETING ID: 873 688 5422
+- PASSCODE: +CVRwgV7F&
 
 **Horarios de Sesiones en Vivo**
 
-- Martes : 3:00 - 4:30 PM CST
-- Jueves : 3:00 - 4:30 PM CST
+- Martes : 9:00 AM - 10:30 AM CST
+- Viernes : 9:00 AM - 10:30 AM CST
 
 - En las sesiones en línea es sugerido tener la cámara encendida todo el tiempo.
 
