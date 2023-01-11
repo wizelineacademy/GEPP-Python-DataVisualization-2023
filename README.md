@@ -200,11 +200,7 @@ Para programar una tutoría en línea personalizada con uno de los mentores, sig
 Seleccione el enlace a continuación de cualquiera de los mentores, se abrirá su calendario con disponibilidad por día y hora. Elige el que mejor se adapte a tu necesidad. Recuerde completar [ESTE] formulario de comentarios al final de su tutoría.
 
 
-| MENTOR | AGENDAR MENTORIA |
-| ------ | ----- |
-| David Sol |	[AQUI]|
-| Ricardo Elinar Valdez Hernández |	[AQUI]|
-| Marco Mendoza |	[AQUI]|
+[AGENDAR MENTORIA](https://github.com/wizelineacademy/GEPP-Python-DataVisualization-2023)
 
 # VII. Contacto de Wizeline Digital Skills Accelerator
 
