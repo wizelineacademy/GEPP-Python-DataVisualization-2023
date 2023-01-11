@@ -197,10 +197,9 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 Para programar una tutoría en línea personalizada con uno de los mentores, siga estas instrucciones:
 
-Seleccione el enlace a continuación de cualquiera de los mentores, se abrirá su calendario con disponibilidad por día y hora. Elige el que mejor se adapte a tu necesidad. Recuerde completar [ESTE] formulario de comentarios al final de su tutoría.
+Seleccione [AGENDAR MENTORIA](https://github.com/wizelineacademy/GEPP-Python-DataVisualization-2023),se abrirá un formulario el cual debera llenarse, te enviaremos una solicitud de reunion con los datos necesario para unirte a la sesion.
 
-
-[AGENDAR MENTORIA](https://github.com/wizelineacademy/GEPP-Python-DataVisualization-2023)
+Recuerde completar [ESTE](https://docs.google.com/forms/d/e/1FAIpQLSd9IZ0fEUsDnIqtDaA2Jy_YhccyYDeGxEEv9SXTNmefMups0Q/viewform) formulario de comentarios al final de su tutoría.
 
 # VII. Contacto de Wizeline Digital Skills Accelerator
 
