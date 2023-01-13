@@ -65,7 +65,7 @@ Puede ver la información detallada del contenido de este entrenamiento haciendo
 
 **Comentarios de la sesión**
 
-Al final de cada sesión en vivo, completa nuestra [Encuesta de Retroalimentacion] para ayudarnos a mejorar tu experiencia de aprendizaje.
+Al final de cada sesión en vivo, completa nuestra [Encuesta de Retroalimentacion](https://docs.google.com/forms/d/e/1FAIpQLSfLdsad4R7pjyTppTO6haFmeIr_A5xZqgQvN5Bq2LmsBMY1VA/viewform) para ayudarnos a mejorar tu experiencia de aprendizaje.
 
 **Desglose del Entrenamiento**
 
@@ -164,7 +164,7 @@ Los temas se dividen en 8 semanas, 2 sesiones por semana, 1 hora 30 minutos por 
 
 **SEMANA 7**
 
-**Sesión 11 (Martes 21 Febrero 2023) : Data Analysis**
+**Sesión 11 : Data Analysis**
 
 **Fecha : Martes 21 Febrero 2023**
 **Instructor : Ricardo Valdez**
