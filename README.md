@@ -191,7 +191,7 @@ Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
 
 ✴️ Como parte del proyecto final, presentarás una demostración que formará parte de la evaluación final vía Zoom, en el que reforzarás y aplicarás los conocimientos adquiridos durante el entrenamiento. 
 
-* Toda la informacion relacionada con el proyecto final, esta disponible en [ESTE](https://github.com/wizelineacademy/GEPP-Python-DataVisualization-2023/files/10408367/Intro.To.Python_Capstone.Project.pdf)documento.
+* Toda la informacion relacionada con el proyecto final, esta disponible en [ESTE](https://github.com/wizelineacademy/GEPP-Python-DataVisualization-2023/files/10408367/Intro.To.Python_Capstone.Project.pdf) documento.
 
 # 📆 VI - Agenda tu mentoria sobre pedido (Mentoring On-Demand)
 
