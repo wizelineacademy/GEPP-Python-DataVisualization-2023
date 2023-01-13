@@ -61,7 +61,7 @@ En este calendario verás las sesiones que están agendadas durante este curso :
 
 **Syllabus**
 
-Puede ver la información detallada del contenido de este entrenamiento haciendo clic [AQUI](https://github.com/wizelineacademy/GEPP-Python-DataVisualization-2023/files/10408486/DSA.-.GEPP.Python.Data.Visualization_.Syllabus._.Wizeline.pdf)
+Puede ver la información detallada del contenido de este entrenamiento haciendo clic [AQUI](https://github.com/wizelineacademy/GEPP-Python-DataVisualization-2023/files/10412949/DSA.-.GEPP.Python.Data.Visualization_.Syllabus._.Wizeline.pdf)
 
 **Comentarios de la sesión**
 
