@@ -84,7 +84,7 @@ Los temas se dividen en 8 semanas, 2 sesiones por semana, 1 hora 30 minutos por 
 
 **SEMANA 2**
 
-**Sesión 1 : Intro To Python **
+**Sesión 1 : Intro To Python**
 
 **Fecha : Martes 17 Enero 2023**
 **Instructor : David Sol**
@@ -148,7 +148,7 @@ Los temas se dividen en 8 semanas, 2 sesiones por semana, 1 hora 30 minutos por 
 
 **SEMANA 6**
 
-**Sesión 9 (Martes 14 Febrero 2023) : Fundamentals of Exploratory Data Analysis (EDA)**
+**Sesión 9 : Fundamentals of Exploratory Data Analysis (EDA)**
 
 **Fecha : Martes 14 Febrero 2023**
 **Instructor : Marco Mendoza**
