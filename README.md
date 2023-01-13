@@ -69,123 +69,122 @@ Al final de cada sesión en vivo, completa nuestra [Encuesta de Retroalimentacio
 
 **Desglose del Entrenamiento**
 
-Los temas se dividen en 7 semanas, 2 sesiones por semana, 1 hora por sesión :
+Los temas se dividen en 8 semanas, 2 sesiones por semana, 1 hora 30 minutos por sesión :
 
 **KICK OFF**
 
-**Sesion Kick Off (Viernes 13 Enero 2023) : Sesión de inicio / Introducció al curso Intro To Python**
+**Sesion Kick Off : Introducción al curso Intro To Python**
 
+**Fecha : Viernes 13 Enero 2023**
 **Instructor : DSA Staff**
 
-**SEMANA 1**
-
-**Sesión 1 (Martes 17 Enero 2023) : Intro To Python **
-
-**Instructor : DSA Staff**
-
-- [PDF / Material]
-
-**Sesión 2 (Viernes 20 Enero 2023) : Setting Your Environment**
-
-**Instructor : David Sol**
-
-- [PDF / Material]
 - [Grabación]
 
 **SEMANA 2**
 
-**Sesión 3 (Martes 24 Enero 2023) : Setting Your Environment**
+**Sesión 1 : Intro To Python **
 
+**Fecha : Martes 17 Enero 2023**
 **Instructor : David Sol**
 
-- [PDF / Material]
 - [Grabación]
 
-**Sesión 4 (Viernes 27 Enero 2023) : IDEs & Git**
+**Sesión 2 : Setting Your Environment**
 
+**Fecha : Viernes 20 Enero 2023**
 **Instructor : David Sol**
 
-- [PDF / Material]
 - [Grabación]
 
 **SEMANA 3**
 
-**Sesión 5 (Martes 31 Enero 2023) : Jupyter and Notebooks**
+**Sesión 3 : IDEs & Gitt**
 
-**Instructor : Marco Mendoza**
+**Fecha : Martes 24 Enero 2023**
+**Instructor : David Sol**
 
-- [PDF / Material]
 - [Grabación]
 
-**Sesión 6 (Viernes 3 Febrero 2023) : Python Basics**
+**Sesión 4 (Viernes 27 Enero 2023) : Jupyter & Notebooks**
 
-**Instructor : Ricardo Valdez Hernandez**
+**Fecha : Viernes 27 Enero 2023**
+**Instructor : Marco Mendoza**
 
-- [PDF / Material]
 - [Grabación]
 
 **SEMANA 4**
 
-**Sesión 7 (Martes 7 Febrero 2023) : Pandas**
+**Sesión 5 : Python Basics**
 
-**Instructor : Marco Mendoza**
+**Fecha : Martes 31 Enero 2023**
+**Instructor : Ricardo Valdez**
 
-- [PDF / Material]
 - [Grabación]
 
-**Sesión 8 (Viernes 10 Febrero 2023) : Processing Data**
+**Sesión 6 : Pandas**
 
-**Instructor : Ricardo Valdez Hernandez**
+**Fecha : Viernes 3 Febrero 2023**
+**Instructor : Marco Mendoza**
 
-- [PDF / Material]
 - [Grabación]
 
 **SEMANA 5**
 
-**Sesión 9 (Martes 14 Febrero 2023) : Processing More Data**
+**Sesión 7 : Processing Data**
 
-**Instructor : Marco Mendoza**
+**Fecha : Martes 7 Febrero 2023**
+**Instructor : Ricardo Valdez**
 
-- [PDF / Material]
 - [Grabación]
 
-**Sesión 10 (Viernes 17 Febrero 2023) : Fundamentals of Exploratory Data Analysis (EDA)**
+**Sesión 8 : Processing More Data**
 
+**Fecha : Viernes 10 Febrero 2023**
 **Instructor : Marco Mendoza**
 
-- [PDF / Material]
 - [Grabación]
 
 **SEMANA 6**
 
-**Sesión 11 (Martes 21 Febrero 2023) : Data Visualizations**
+**Sesión 9 (Martes 14 Febrero 2023) : Fundamentals of Exploratory Data Analysis (EDA)**
 
-**Instructor : Ricardo Valdez Hernandez**
+**Fecha : Martes 14 Febrero 2023**
+**Instructor : Marco Mendoza**
 
-- [PDF / Material]
 - [Grabación]
 
-**Sesión 12 (Viernes 24 Febrero 2023) : Data Analysis**
+**Sesión 10 : Data Visualizations**
 
-**Instructor : Ricardo Valdez Hernandez**
+**Fecha : Viernes 17 Febrero 2023**
+**Instructor : Ricardo Valdez**
 
-- [PDF / Material]
 - [Grabación]
 
 **SEMANA 7**
 
-**Sesión 13 (Martes 28 2023) : Machine Learning and AI in the Cloud**
+**Sesión 11 (Martes 21 Febrero 2023) : Data Analysis**
 
-**Instructor : Ricardo Valdez Hernandez**
+**Fecha : Martes 21 Febrero 2023**
+**Instructor : Ricardo Valdez**
 
-- [PDF / Material]
 - [Grabación]
 
-**Sesión 14 (Martes 7 Marzo 2023) : Sesión de demostración final/Capstone Project**
+**Sesión 12 : Machine Learning and AI in the Cloud**
 
-**Instructor : Marco Mendoza**
+**Fecha : Viernes 24 Febrero 2023**
+**Instructor : Ricardo Valdez**
 
-- Demostración/entrega del proyecto Capstone
+- [Grabación]
+
+**SEMANA 8**
+
+**Sesión Final : Demostración final/Proyecto final**
+
+**Fecha : Martes 28 Febrero 2023**
+**Instructor : Ricardo Valdez**
+
+- [Grabación]
+
 
 # V - Proyecto Final (Capstone Project)
 
