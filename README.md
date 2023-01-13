@@ -71,6 +71,8 @@ Al final de cada sesión en vivo, completa nuestra [Encuesta de Retroalimentacio
 
 Los temas se dividen en 8 semanas, 2 sesiones por semana, 1 hora 30 minutos por sesión :
 
+**SEMANA 1**
+
 **KICK OFF**
 
 **Sesion Kick Off : Introducción al curso Intro To Python**
@@ -105,7 +107,7 @@ Los temas se dividen en 8 semanas, 2 sesiones por semana, 1 hora 30 minutos por 
 
 - [Grabación]
 
-**Sesión 4 (Viernes 27 Enero 2023) : Jupyter & Notebooks**
+**Sesión 4 : Jupyter & Notebooks**
 
 **Fecha : Viernes 27 Enero 2023**
 **Instructor : Marco Mendoza**
