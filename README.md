@@ -80,7 +80,7 @@ Los temas se dividen en 8 semanas, 2 sesiones por semana, 1 hora 30 minutos por 
 **Fecha : Viernes 13 Enero 2023**
 **Instructor : DSA Staff**
 
-- [Grabación]
+- [Grabación](https://youtu.be/hn2oLMXVuTE)
 
 **SEMANA 2**
 
