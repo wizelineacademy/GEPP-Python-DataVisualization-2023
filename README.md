@@ -89,7 +89,7 @@ Los temas se dividen en 8 semanas, 2 sesiones por semana, 1 hora 30 minutos por 
 **Fecha : Martes 17 Enero 2023**
 **Instructor : David Sol**
 
-- [Grabación]
+- [Grabación](https://youtu.be/5c1MNrrA3-4)
 
 **Sesión 2 : Setting Your Environment**
 
