@@ -96,7 +96,7 @@ Los temas se dividen en 8 semanas, 2 sesiones por semana, 1 hora 30 minutos por 
 **Fecha : Viernes 20 Enero 2023**
 **Instructor : David Sol**
 
-- [Grabación]
+- [Grabación](https://youtu.be/ApM7euyDtU0)
 
 **SEMANA 3**
 
