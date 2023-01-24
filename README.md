@@ -100,12 +100,12 @@ Los temas se dividen en 8 semanas, 2 sesiones por semana, 1 hora 30 minutos por 
 
 **SEMANA 3**
 
-**Sesión 3 : IDEs & Gitt**
+**Sesión 3 : IDEs & Git**
 
 **Fecha : Martes 24 Enero 2023**
 **Instructor : David Sol**
 
-- [Grabación]
+- [Grabación](https://youtu.be/IyrebHIBfsk)
 
 **Sesión 4 : Jupyter & Notebooks**
 
