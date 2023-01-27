@@ -72,6 +72,5 @@ We will learn more about Python as a Language.
 ## Homework:
 
 ### Read the Article: [Your Brain Is an Energy-Efficient 'Prediction Machine'](https://www.wired.com/story/your-brain-is-an-energy-efficient-prediction-machine/)
-![Article Image](images/illusion.png)
 
 ### Optional: [In Search Of A Flat Earth](https://www.youtube.com/watch?v=JTfhYyTuT44)
