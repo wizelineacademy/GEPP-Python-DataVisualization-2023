@@ -10,9 +10,7 @@
 
 ## Jupyter Notebook
 
-[Today's Jupyter Notebook](./programming.ipynb)
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WizelineIntroToPythonML/05-python/HEAD?labpath=programming.ipynb)
+Create : Today's Jupyter Notebook
 
 ## Feedback
 
