@@ -26,8 +26,6 @@ The process is **different for each Operating System**.
 
 **[Install from the Python Webpage](https://www.python.org)**
 
-![Installation menu](images/installation.png)
-
 #### MacOS installation using [Homebrew](https://brew.sh)
 
 ```bash
