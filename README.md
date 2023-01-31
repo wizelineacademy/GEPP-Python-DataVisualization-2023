@@ -121,7 +121,7 @@ Los temas se dividen en 8 semanas, 2 sesiones por semana, 1 hora 30 minutos por 
 **Fecha : Martes 31 Enero 2023**
 **Instructor : Ricardo Valdez**
 
-- [Grabación]
+- [Grabación](https://youtu.be/r_87xY9-bCE)
 
 **Sesión 6 : Pandas**
 
