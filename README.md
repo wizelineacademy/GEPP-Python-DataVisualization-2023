@@ -128,7 +128,7 @@ Los temas se dividen en 8 semanas, 2 sesiones por semana, 1 hora 30 minutos por 
 **Fecha : Viernes 3 Febrero 2023**
 **Instructor : Marco Mendoza**
 
-- [Grabación]
+- [Grabación](https://youtu.be/7SKyMbeyBUA)
 
 **SEMANA 5**
 
