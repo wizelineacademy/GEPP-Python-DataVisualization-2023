@@ -137,14 +137,14 @@ Los temas se dividen en 8 semanas, 2 sesiones por semana, 1 hora 30 minutos por 
 **Fecha : Martes 7 Febrero 2023**
 **Instructor : Ricardo Valdez**
 
-- [Grabación]
+- [Grabación](https://youtu.be/645O593xZ4k)
 
 **Sesión 8 : Processing More Data**
 
 **Fecha : Viernes 10 Febrero 2023**
 **Instructor : Marco Mendoza**
 
-- [Grabación]
+- [Grabación](https://youtu.be/Ck6FXJ2wrsU)
 
 **SEMANA 6**
 
