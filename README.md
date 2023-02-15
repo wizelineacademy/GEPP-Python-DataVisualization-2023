@@ -153,7 +153,7 @@ Los temas se dividen en 8 semanas, 2 sesiones por semana, 1 hora 30 minutos por 
 **Fecha : Martes 14 Febrero 2023**
 **Instructor : Marco Mendoza**
 
-- [Grabación]
+- [Grabación](https://youtu.be/ESdmSOBN-7Q)
 
 **Sesión 10 : Data Visualizations**
 
