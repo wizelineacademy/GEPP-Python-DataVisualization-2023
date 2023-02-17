@@ -15,7 +15,7 @@ Table of Contents
 
 # I - Bienvenida
 
-Bienvenido a su capacitación de Python & Data Visualization
+Bienvenido a su entrenamiento de Python & Data Visualization
 
 # II - Informacion General Del Entrenamiento
 
