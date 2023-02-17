@@ -78,6 +78,7 @@ Los temas se dividen en 8 semanas, 2 sesiones por semana, 1 hora 30 minutos por 
 **Sesion Kick Off : Introducción al curso Intro To Python**
 
 **Fecha : Viernes 13 Enero 2023**
+
 **Instructor : DSA Staff**
 
 - [Grabación](https://youtu.be/hn2oLMXVuTE)
@@ -87,6 +88,7 @@ Los temas se dividen en 8 semanas, 2 sesiones por semana, 1 hora 30 minutos por 
 **Sesión 1 : Intro To Python**
 
 **Fecha : Martes 17 Enero 2023**
+
 **Instructor : David Sol**
 
 - [Grabación](https://youtu.be/5c1MNrrA3-4)
@@ -94,6 +96,7 @@ Los temas se dividen en 8 semanas, 2 sesiones por semana, 1 hora 30 minutos por 
 **Sesión 2 : Setting Your Environment**
 
 **Fecha : Viernes 20 Enero 2023**
+
 **Instructor : David Sol**
 
 - [Grabación](https://youtu.be/ApM7euyDtU0)
@@ -103,6 +106,7 @@ Los temas se dividen en 8 semanas, 2 sesiones por semana, 1 hora 30 minutos por 
 **Sesión 3 : IDEs & Git**
 
 **Fecha : Martes 24 Enero 2023**
+
 **Instructor : David Sol**
 
 - [Grabación](https://youtu.be/IyrebHIBfsk)
@@ -110,6 +114,7 @@ Los temas se dividen en 8 semanas, 2 sesiones por semana, 1 hora 30 minutos por 
 **Sesión 4 : Jupyter & Notebooks**
 
 **Fecha : Viernes 27 Enero 2023**
+
 **Instructor : Marco Mendoza**
 
 - [Grabación](https://youtu.be/gmhTj-PjYSs)
@@ -119,6 +124,7 @@ Los temas se dividen en 8 semanas, 2 sesiones por semana, 1 hora 30 minutos por 
 **Sesión 5 : Python Basics**
 
 **Fecha : Martes 31 Enero 2023**
+
 **Instructor : Ricardo Valdez**
 
 - [Grabación](https://youtu.be/r_87xY9-bCE)
@@ -126,6 +132,7 @@ Los temas se dividen en 8 semanas, 2 sesiones por semana, 1 hora 30 minutos por 
 **Sesión 6 : Pandas**
 
 **Fecha : Viernes 3 Febrero 2023**
+
 **Instructor : Marco Mendoza**
 
 - [Grabación](https://youtu.be/7SKyMbeyBUA)
@@ -135,6 +142,7 @@ Los temas se dividen en 8 semanas, 2 sesiones por semana, 1 hora 30 minutos por 
 **Sesión 7 : Processing Data**
 
 **Fecha : Martes 7 Febrero 2023**
+
 **Instructor : Ricardo Valdez**
 
 - [Grabación](https://youtu.be/645O593xZ4k)
@@ -142,6 +150,7 @@ Los temas se dividen en 8 semanas, 2 sesiones por semana, 1 hora 30 minutos por 
 **Sesión 8 : Processing More Data**
 
 **Fecha : Viernes 10 Febrero 2023**
+
 **Instructor : Marco Mendoza**
 
 - [Grabación](https://youtu.be/Ck6FXJ2wrsU)
@@ -151,6 +160,7 @@ Los temas se dividen en 8 semanas, 2 sesiones por semana, 1 hora 30 minutos por 
 **Sesión 9 : Fundamentals of Exploratory Data Analysis (EDA)**
 
 **Fecha : Martes 14 Febrero 2023**
+
 **Instructor : Marco Mendoza**
 
 - [Grabación](https://youtu.be/ESdmSOBN-7Q)
@@ -158,6 +168,7 @@ Los temas se dividen en 8 semanas, 2 sesiones por semana, 1 hora 30 minutos por 
 **Sesión 10 : Data Visualizations**
 
 **Fecha : Viernes 17 Febrero 2023**
+
 **Instructor : Ricardo Valdez**
 
 - [Grabación](https://youtu.be/5xRoeVZXfes)
@@ -167,6 +178,7 @@ Los temas se dividen en 8 semanas, 2 sesiones por semana, 1 hora 30 minutos por 
 **Sesión 11 : Data Analysis**
 
 **Fecha : Martes 21 Febrero 2023**
+
 **Instructor : Ricardo Valdez**
 
 - [Grabación]
@@ -174,6 +186,7 @@ Los temas se dividen en 8 semanas, 2 sesiones por semana, 1 hora 30 minutos por 
 **Sesión 12 : Machine Learning and AI in the Cloud**
 
 **Fecha : Viernes 24 Febrero 2023**
+
 **Instructor : Ricardo Valdez**
 
 - [Grabación]
