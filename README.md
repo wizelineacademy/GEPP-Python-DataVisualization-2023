@@ -160,7 +160,7 @@ Los temas se dividen en 8 semanas, 2 sesiones por semana, 1 hora 30 minutos por 
 **Fecha : Viernes 17 Febrero 2023**
 **Instructor : Ricardo Valdez**
 
-- [Grabación]
+- [Grabación](https://youtu.be/TK68ho-7H5U)
 
 **SEMANA 7**
 
