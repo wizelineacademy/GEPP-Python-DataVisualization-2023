@@ -181,7 +181,7 @@ Los temas se dividen en 8 semanas, 2 sesiones por semana, 1 hora 30 minutos por 
 
 **Instructor : Ricardo Valdez**
 
-- [Grabación]
+- [Grabación](https://youtu.be/rDZzDWcx0_M)
 
 **Sesión 12 : Machine Learning and AI in the Cloud**
 
